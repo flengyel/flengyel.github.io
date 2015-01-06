@@ -1,4 +1,4 @@
-flengyel.githib.io
+flengyel.github.io
 ==================
 
 Mathjax configuration javascript for http://deniallogic.blogspot.com
