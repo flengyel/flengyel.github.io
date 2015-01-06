@@ -17,7 +17,7 @@ MathJax.Hub.Config({
 	WITH: "{\\,\\mathop{\\&amp;}\\,}",
         HASH: "{\\,\\boxtimes\\,}",
         OK:   ["{\\mathrm{OK}\\left({#1}\\right)}",1],
-        STAR: ["{{#1}^*}"",1]
+        STAR: ["{{#1}^*}",1]
       }
     }
 });
