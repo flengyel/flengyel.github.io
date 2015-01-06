@@ -1,23 +1,23 @@
 MathJax.Hub.Config({
     TeX: {
-      equationNumbers: { autonumber: &quot;AMS&quot; },
+      equationNumbers: { autonumber: "AMS" },
       Macros: {
-        DL:   &quot;{\\mathrm{DL}}&quot;,
-        JL:   &quot;{\\mathrm{JL}}&quot;,
-		    LoP:  &quot;{\\mathrm{LP}}&quot;,
-        DLP:  &quot;{\\DL\\oplus_{\\JL}\\LoP}&quot;,
-        PROVES:  &quot;{\\,\\vdash\\,}&quot;,
-		    MODELS:  &quot;{\\,\\vDash\\,}&quot;,
-		    AND:  &quot;{\\,\\wedge\\,}&quot;,
-		    OR:  &quot;{\\,\\vee\\,}&quot;,
-        IMP:  &quot;{\\,\\rightarrow\\,}&quot;,
-        NOT:  &quot;{\\lnot}&quot;,
-        FALSE:  &quot;{\\bot}&quot;,
-        JUST: [&quot;{{#1}:{#2}}&quot;,2],
-	      WITH: &quot;{\\,\\mathop{\\&amp;}\\,}&quot;,
-        HASH: &quot;{\\,\\boxtimes\\,}&quot;,
-        OK:   [&quot;{\\mathrm{OK}\\left({#1}\\right)}&quot;,1],
-        STAR: [&quot;{{#1}^*}&quot;,1]
+        DL:   "{\\mathrm{DL}}",
+        JL:   "{\\mathrm{JL}}",
+	LoP:  "{\\mathrm{LP}}",
+        DLP:  "{\\DL\\oplus_{\\JL}\\LoP}",
+        PROVES:  "{\\,\\vdash\\,}",
+	MODELS:  "{\\,\\vDash\\,}",
+	AND:  "{\\,\\wedge\\,}",
+	OR:  "{\\,\\vee\\,}",
+        IMP:  "{\\,\\rightarrow\\,}",
+        NOT:  "{\\lnot}",
+        FALSE: "{\\bot}",
+        JUST: ["{{#1}:{#2}}",2],
+	WITH: "{\\,\\mathop{\\&amp;}\\,}",
+        HASH: "{\\,\\boxtimes\\,}",
+        OK:   ["{\\mathrm{OK}\\left({#1}\\right)}",1],
+        STAR: ["{{#1}^*}"",1]
       }
     }
 });
