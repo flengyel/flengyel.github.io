@@ -14,7 +14,7 @@ MathJax.Hub.Config({
         NOT:  "{\\lnot}",
         FALSE: "{\\bot}",
         JUST: ["{{#1}:{#2}}",2],
-	WITH: "{\\,\\mathop{\\&;}\\,}",
+	WITH: "{\\,\\mathop{\\&}\\,}",
         HASH: "{\\,\\boxtimes\\,}",
         OK:   ["{\\mathrm{OK}\\left({#1}\\right)}",1],
         STAR: ["{{#1}^*}",1]
