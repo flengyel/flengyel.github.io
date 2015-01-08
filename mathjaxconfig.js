@@ -1,6 +1,6 @@
 MathJax.Hub.Config({
     TeX: {
-      equationNumbers: { autonumber: "AMS" },
+      equationNumbers: { autoNumber: "AMS" },
       Macros: {
     	CL:   "{\\mathrm{CL}}",
         DL:   "{\\mathrm{DL}}",
