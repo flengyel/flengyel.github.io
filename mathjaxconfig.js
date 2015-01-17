@@ -7,6 +7,7 @@ MathJax.Hub.Config({
         JL:   "{\\mathrm{JL}}",
 	LoP:  "{\\mathrm{LP}}",
         DLP:  "{\\DL\\oplus_{\\JL}\\LoP}",
+        CLP:  "{\\CL\\oplus_{\\JL}\\LoP}",
         PROVES:  "{\\,\\vdash\\,}",
 	MODELS:  "{\\,\\vDash\\,}",
 	AND:  "{\\,\\wedge\\,}",
