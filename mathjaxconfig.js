@@ -2,6 +2,7 @@ MathJax.Hub.Config({
     TeX: {
       equationNumbers: { autoNumber: "AMS" },
       Macros: {
+      	R:    "{\\mathbb{R}}",
     	CL:   "{\\mathrm{CL}}",
         DL:   "{\\mathrm{DL}}",
         JL:   "{\\mathrm{JL}}",
