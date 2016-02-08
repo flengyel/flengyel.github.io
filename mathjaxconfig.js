@@ -1,4 +1,5 @@
 MathJax.Hub.Config({
+    extensions: ["tex2jax.js"],
     tex2jax: {
       inlineMath: [ ["\\(","\\)"] ],
       displayMath: [  ["\\[","\\]"] ],
