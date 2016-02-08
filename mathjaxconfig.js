@@ -4,6 +4,7 @@ MathJax.Hub.Config({
       tex2jax: {
         inlineMath: [ ["\\(","\\)"] ],
         displayMath: [  ["\\[","\\]"] ],
+        processEscapes: true },
       equationNumbers: { autoNumber: "AMS" },
       Macros: {
       	R:    "{\\mathbb{R}}",
