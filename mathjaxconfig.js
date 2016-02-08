@@ -1,5 +1,9 @@
 MathJax.Hub.Config({
     TeX: {
+      extensions: ["tex2jax.js"],
+      tex2jax: {
+        inlineMath: [ ["\\(","\\)"] ],
+        displayMath: [  ["\\[","\\]"] ],
       equationNumbers: { autoNumber: "AMS" },
       Macros: {
       	R:    "{\\mathbb{R}}",
