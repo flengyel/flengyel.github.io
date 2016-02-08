@@ -6,6 +6,7 @@ MathJax.Hub.Config({
       processEscapes: true
     },
     TeX: {
+      extensions: ["AMSmath.js","AMSsymbols.js","http://sonoisa.github.io/xyjax_ext/xypic.js"],
       equationNumbers: { autoNumber: "AMS" },
       Macros: {
       	R:    "{\\mathbb{R}}",
