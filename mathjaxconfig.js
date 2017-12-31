@@ -26,5 +26,5 @@ MathJax.Hub.Config({
       }
     }
 });
-MathJax.Ajax.loadComplete("http://flengyel.github.io/mathjaxconfig.js");
+MathJax.Ajax.loadComplete("https://flengyel.github.io/mathjaxconfig.js");
 
