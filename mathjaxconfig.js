@@ -1,5 +1,6 @@
 MathJax.Hub.Config({
     TeX: {
+       extensions: ["AMScd.js"],
       equationNumbers: { autoNumber: "AMS" },
       Macros: {
       	R:    "{\\mathbb{R}}",
