@@ -1,7 +1,7 @@
 flengyel.github.io
 ==================
 
-Mathjax configuration javascript for http://imflaud.blogspot.com
+Mathjax configuration javascript for http://flengyel.blogspot.com
 
 ### Usage:
 Include the follwing line in the blogspot.com HTML template immediately after the `<head>` tag:
